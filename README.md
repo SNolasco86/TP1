@@ -10,7 +10,7 @@ El sensor de alcohol será modelado por un potenciómetro conectado a la entrada
 Cuando el sistema este encendido se iluminará un led (LED1) y cuando se sobrepase un nivel de la entrada analógica se encenderá pitando un buzzer modelado por otro led (LED2).
 
 # Vistas
-<img src="https://github.com/SNolasco86/TP1/blob/main/placa.jpeg" width="425" height="295">
+<img src="https://github.com/SNolasco86/TP1/blob/main/placa.jpeg" width="425" height="495">
 
 # Consideraciones de la Placa
 
@@ -26,3 +26,6 @@ Cuando el sistema este encendido se iluminará un led (LED1) y cuando se sobrepa
  - **Potenciómetro
  - **Pulsador NA
  - **Cables macho-macho varios
+   
+# Video
+[![Alt text](https://img.youtube.com/vi/0aKbFhh9uZo/0.jpg)](https://www.youtube.com/watch?v=0aKbFhh9uZo)
